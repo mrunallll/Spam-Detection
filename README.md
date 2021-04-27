@@ -1,2 +1,4 @@
 # Spam-Detection
-spam detection deployment through hereko
+https://unholy-spam-detector.herokuapp.com/
+
+Spam Detection model deployment using Flask & Herokuapp
